@@ -17,16 +17,16 @@ cd nome-do-repositorio
 
 Atualize as configurações de conexão com o banco de dados no arquivo src/main/resources/application.properties:
 
-´´
+``
 spring.datasource.url=jdbc:mysql://localhost:3306/nome_do_banco_de_dados
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-´´
+``
 
 ## Construção e Execução
 
-´´
+``
 .\mvnw spring-boot:run
-´´
+``
