@@ -10,10 +10,10 @@ Este projeto é uma API REST simples criada com Spring Boot que se conecta a um 
 
 ## Configuração do Projeto
 
-´´
+``
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
-´´
+``
 
 Atualize as configurações de conexão com o banco de dados no arquivo src/main/resources/application.properties:
 
